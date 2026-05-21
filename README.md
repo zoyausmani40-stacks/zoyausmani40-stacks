@@ -1,11 +1,11 @@
-## Hi there 👋 
+## Hi there 👋 I'm Zoya
 
 
-      B.Tech student specializing in AI & Data Science<br>
-      💻 Skilled in both AI/Data Science and Full Stack Web Development<br>
-      🌱 Currently learning DSA, Machine Learning, Deep Learning, and System Design<br>
-      ⚡ Experienced with React, Next.js, Node.js, MongoDB, PostgreSQL, and Python<br>
-      🤖 Interested in building intelligent applications powered by AI<br>
+      B.Tech student specializing in AI & Data Science
+      💻 Skilled in both AI/Data Science and Full Stack Web Development
+      🌱 Currently learning DSA, Machine Learning, Deep Learning, and System Design
+      ⚡ Experienced with React, Next.js, Node.js, MongoDB, PostgreSQL, and Python
+      🤖 Interested in building intelligent applications powered by AI
       🧠 Passionate about solving real-world problems using technology
 
 
