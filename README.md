@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi there 👋 
 
 
-      B.Tech student specializing in AI & Data Science<br>💻 Skilled in both AI/Data Science and Full Stack Web Development<br>🌱 Currently learning DSA, Machine Learning, Deep Learning, and System Design<br>⚡ Experienced with React, Next.js, Node.js, MongoDB, PostgreSQL, and Python<br>🤖 Interested in building intelligent applications powered by AI<br>🧠 Passionate about solving real-world problems using technolog
+      B.Tech student specializing in AI & Data Science<br>
+      💻 Skilled in both AI/Data Science and Full Stack Web Development<br>
+      🌱 Currently learning DSA, Machine Learning, Deep Learning, and System Design<br>
+      ⚡ Experienced with React, Next.js, Node.js, MongoDB, PostgreSQL, and Python<br>
+      🤖 Interested in building intelligent applications powered by AI<br>
+      🧠 Passionate about solving real-world problems using technology
 
 
 ## 🌐 Socials:
